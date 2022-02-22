@@ -1,0 +1,50 @@
+.header .logo {
+    line-height: 0;
+  }
+
+.input-group{
+    height: 30px; 
+    width: 300px;
+    
+}
+
+.menu{
+    color: white;
+
+}
+
+.nav-link.dropdown-toggle{
+    color: white;
+    
+}
+
+.objectos{
+    margin: 30px;
+}
+
+.col{
+    width: 50px;
+}
+
+.box {
+   
+    padding: 40px 30px;
+    
+    box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+    transition: 0.3s;
+  }
+.box:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
+  }
+
+  .cardAlone{
+    margin: 30px;
+    padding: 40px 30px;
+    height: 30px; 
+    width: auto;
+    color: black;
+  }
